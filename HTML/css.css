@@ -1,0 +1,21 @@
+body{
+  background-image: url(/Users/ouroakane/Documents/write\ everyday/cat.gif);
+}
+h1{
+    text-align: center;
+    color: white;
+  }
+h2{
+  margin-left: 60%;
+  color:yellow;
+}
+p{
+  text-indent: 32px;
+  line-height: 32px;
+  color:white;
+}
+img{
+  position: absolute;
+  left:50%;
+  margin-left: -100px;
+}
